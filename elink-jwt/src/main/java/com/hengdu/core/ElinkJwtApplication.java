@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by Yonghong on NOV 2,2017.
+ * Created by Yonghong Qin on NOV 2,2017. 
  */
 @SpringBootApplication
 public class ElinkJwtApplication {
